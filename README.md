@@ -4,7 +4,7 @@
     <img src="assets/img/hi.jpg" width="750px">
   </a>
 </p>
-
+https://connect.unity.com/p/ml-agents-penguins-unity-learn
 # Google Drive linki 
 # Unity tüm proje
 # https://drive.google.com/drive/folders/1rW3gH-TWWUpvrGuASD-8oSJFOjS9gvHe?usp=sharing
